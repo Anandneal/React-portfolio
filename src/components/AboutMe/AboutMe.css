@@ -1,0 +1,32 @@
+.left {
+  display: flex;
+}
+.inner {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: flex-start;
+}
+.imageContainer {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+.comp-img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+.featured {
+  position: relative;
+  padding: 0;
+  display: grid;
+}
+.about {
+  display: grid;
+  grid: 1fr/ 1fr 50%;
+  margin: 50px;
+}
+.featured-desc {
+  text-align: left;
+}

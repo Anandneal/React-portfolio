@@ -1,0 +1,23 @@
+header {
+  background-color: black;
+  display: flex;
+  height: 80px;
+  width: 100%;
+  align-items: center;
+}
+.logo {
+  font-size: 60px;
+  margin-left: 27px;
+}
+a {
+  display: flex;
+  flex: 1;
+  margin: 10px;
+  justify-content: center;
+ 
+}
+nav {
+  display: flex;
+  flex: 1;
+  font-size: 30px;
+}

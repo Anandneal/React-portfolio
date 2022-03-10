@@ -1,0 +1,30 @@
+<svg  width="654" height="641" viewBox="0 0 654 641">
+  <g id="hero-image" transform="translate(-419 -2172)">
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(749 2172)" fill="#6700ee" stroke="#707070" stroke-width="1">
+      <rect class="square-anim" width="162" height="162" rx="27" stroke="none"/>
+      <rect class="square-anim" x="0.5" y="0.5" width="161" height="161" rx="26.5" fill="none"/>
+    </g>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(743 2495)" fill="#6700ee" stroke="#707070" stroke-width="1">
+      <rect class="square-anim" width="162" height="162" rx="27" stroke="none"/>
+      <rect class="square-anim" x="0.5" y="0.5" width="161" height="161" rx="26.5" fill="none"/>
+    </g>
+    <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(911 2323)" fill="#6700ee" stroke="#707070" stroke-width="1" opacity="0.455">
+      <rect class="square-anim" width="162" height="162" rx="27" stroke="none"/>
+      <rect class="square-anim" x="0.5" y="0.5" width="161" height="161" rx="26.5" fill="none"/>
+    </g>
+    <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(581 2323)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect class="square-anim" width="162" height="162" rx="27" stroke="none"/>
+      <rect class="square-anim" x="0.5" y="0.5" width="161" height="161" rx="26.5" fill="none"/>
+    </g>
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(587 2651)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect class="square-anim" width="162" height="162" rx="27" stroke="none"/>
+      <rect class="square-anim" x="0.5" y="0.5" width="161" height="161" rx="26.5" fill="none"/>
+    </g>
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(419 2489)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0.235">
+      <rect class="square-anim" width="162" height="162" rx="27" stroke="none"/>
+      <rect class="square-anim" x="0.5" y="0.5" width="161" height="161" rx="26.5" fill="none"/>
+    </g>
+    <ellipse class="square-anim" id="Ellipse_6" data-name="Ellipse 6" cx="73" cy="71.5" rx="73" ry="71.5" transform="translate(595 2495)" fill="#4beaef"/>
+    <ellipse class="square-anim"  id="Ellipse_7" data-name="Ellipse 7" cx="73" cy="71.5" rx="73" ry="71.5" transform="translate(757 2342)" fill="#da1ba9"/>
+  </g>
+</svg>
